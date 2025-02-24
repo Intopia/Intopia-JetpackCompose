@@ -1,0 +1,92 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">Intopia Compose</string>
+    <string name="navigation_action">view</string>
+    <string name="navigate_up">navigate up</string>
+
+    <!-- Home screen -->
+    <string name="app_description">"This is the companion app to the training course **Accessibility for JetPack Compose developers** by Intopia."</string>
+    <string name="title_about_app">About this app</string>
+
+    <!-- Getting started -->
+    <string name="title_getting_started">"Getting started"</string>
+    <string name="title_getting_started_start">"Fake checkboxes start state"</string>
+    <string name="title_getting_started_end">"Fake checkboxes end state"</string>
+
+    <!-- Accessible names -->
+    <string name="title_accessible_names">Accessible names</string>
+    <string name="title_content_description_start">contentDescription start state</string>
+    <string name="title_content_description_end">contentDescription end state</string>
+    <string name="title_text_field_label_start">Text field label start state</string>
+    <string name="title_text_field_label_end">Text field label end state</string>
+
+    <!-- Accessible descriptions -->
+    <string name="title_accessible_descriptions">Accessible descriptions</string>
+    <string name="title_supporting_text_start">supportingText start state</string>
+    <string name="title_supporting_text_end">supportingText end state</string>
+
+    <!-- Accessible usage instructions -->
+    <string name="title_accessible_usage_instructions">Accessible usage instructions</string>
+    <string name="title_account_tile_start">Account tile start state</string>
+    <string name="title_account_tile_end">Account tile end state</string>
+
+    <!-- Role semantics -->
+    <string name="title_role_semantics">Role semantics</string>
+    <string name="title_role_semantics_start">Role semantics start state</string>
+    <string name="title_role_semantics_end">Role semantics end state</string>
+
+    <!-- Images -->
+    <string name="title_images">Images</string>
+    <string name="title_decorative_image_start">Decorative image start state</string>
+    <string name="title_decorative_image_end">Decorative image end state</string>
+    <string name="title_informative_image_start">Informative image start state</string>
+    <string name="title_informative_image_end">Informative image end state</string>
+    <string name="title_functional_image_start">Functional image start state</string>
+    <string name="title_functional_image_end">Functional image end state</string>
+    <string name="title_complex_image_start">Complex image start state</string>
+    <string name="title_complex_image_end">Complex image end state</string>
+
+    <!-- Tables -->
+    <string name="title_tables">Tables</string>
+    <string name="title_tables_start">Tables start state</string>
+    <string name="title_tables_end">Tables end state</string>
+
+    <!-- Groups -->
+    <string name="title_groups">Groups</string>
+    <string name="title_groups_start">Radio group start state</string>
+    <string name="title_groups_end">Radio group end state</string>
+
+    <!-- Instructions -->
+    <string name="title_instructions">Instructions</string>
+    <string name="title_form_field_instructions_start">Form field instructions start state</string>
+    <string name="title_form_field_instructions_end">Form field instructions end state</string>
+
+    <!-- Keyboards -->
+    <string name="title_keyboards">Keyboards</string>
+    <string name="title_keyboards_start">Keyboards start state</string>
+    <string name="title_keyboards_end">Keyboards end state</string>
+
+    <!-- Text field autofill -->
+    <string name="title_text_field_autofill">Text field autofill</string>
+    <string name="title_autofill_start">Autofill start state</string>
+    <string name="title_autofill_end">Autofill end state</string>
+
+    <!-- Live regions -->
+    <string name="title_live_regions">Live regions</string>
+    <string name="title_live_region_start">Live region start state</string>
+    <string name="title_live_region_end">Live region end state</string>
+
+    <!-- Accordions -->
+    <string name="title_accordions">Accordions</string>
+    <string name="title_accordion_start">Accordion start state</string>
+    <string name="title_accordion_end">Accordion end state</string>
+
+    <!-- Layout -->
+    <string name="title_layout">Layout</string>
+    <string name="title_dynamic_type_start">Dynamic type start state</string>
+    <string name="title_dynamic_type_end">Dynamic type end state</string>
+    <string name="title_truncation_start">Truncation start state</string>
+    <string name="title_truncation_end">Truncation end state</string>
+    <string name="title_responsive_layout_start">Responsive layout start state</string>
+    <string name="title_responsive_layout_end">Responsive layout end state</string>
+</resources>
